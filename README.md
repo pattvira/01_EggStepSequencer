@@ -1,4 +1,4 @@
-## 01 Egg Step Sequencer
+## 01_EggStepSequencer
 [pattvira.com/egg-step-sequencer](http://pattvira.com/egg-step-sequencer)
 
 [Video documentation](https://youtu.be/S56EhI_bLjc)
