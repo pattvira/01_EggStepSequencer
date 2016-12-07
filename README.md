@@ -1,6 +1,8 @@
 ## 01 Egg Step Sequencer
 [pattvira.com/egg-step-sequencer](http://pattvira.com/egg-step-sequencer)
 
+[Video documentation](https://youtu.be/S56EhI_bLjc)
+
 ### What you need
 
 **Hardware + Tools:**
@@ -51,5 +53,3 @@
 
 - [Max MSP Step Sequencer video tutorial](https://www.youtube.com/watch?v=hYc2a1ONTck)
 - [Adafruit's write up on photocell aka light sensor](https://learn.adafruit.com/photocells/using-a-photocell)
-
-
